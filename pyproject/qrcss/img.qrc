@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="img">
+    <file>icons/icon-redifinition.png</file>
+    <file>icons/adicionar-usuario.png</file>
+    <file>icons/carrinho-de-compras.png</file>
+    <file>icons/simbolo-de-cadeado-para-interface-de-seguranca.png</file>
+  </qresource>
+</RCC>
